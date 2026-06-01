@@ -27,4 +27,4 @@ I am a Systems and Backend Engineer specializing in high-performance infrastruct
 I am actively looking for **Software Engineering Internships** focused on Systems, Backend, or AI Infrastructure.
 
 * **Email:** sahilmohite029@gmail.com
-* **GitHub:** github.com/sahilm029
+* **GitHub:** https://github.com/sahilm029
